@@ -69,3 +69,10 @@ dms-proton-vpn/
 ## License
 
 GPLv3 - See [LICENSE](LICENSE)
+
+## Roadmap / TODO
+
+- [ ] Support for specific server/country selection from the popout.
+- [ ] Real-time connection speed display (upstream/downstream).
+- [ ] Proton VPN Killswitch status indicator and toggle.
+- [ ] Quick-connect to "Fastest" or "Random" server options.
