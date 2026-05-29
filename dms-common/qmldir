@@ -1,0 +1,4 @@
+module dms.common
+InfoTile 1.0 InfoTile.qml
+PluginHeader 1.0 PluginHeader.qml
+StatusDisplay 1.0 StatusDisplay.qml
